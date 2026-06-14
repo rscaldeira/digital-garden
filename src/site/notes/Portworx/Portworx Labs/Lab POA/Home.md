@@ -17,7 +17,7 @@
 - [[Portworx/Portworx Labs/Lab POA/00 - Build Order\|00 - Build Order]]
 - [[Portworx/Portworx Labs/Lab POA/01 - Informações do Ambiente\|01 - Informações do Ambiente]]
 - [[Portworx/Portworx Labs/Lab POA/02 - Arquitetura Alvo\|02 - Arquitetura Alvo]]
-![Arquitetura Alvo](/notes/Portworx/Portworx%20Labs/Lab%20POA/02.1%20-Desenho_Arquitetura.png)
+![Arquitetura Alvo](/src/notes/Portworx/Portworx%20Labs/Lab%20POA/02.1%20-Desenho_Arquitetura.png)
 - [[Portworx/Portworx Labs/Lab POA/03 - Informações Pendentes\|03 - Informações Pendentes]]
 - [[Portworx/Portworx Labs/Lab POA/04 - Pré-Requisitos\|04 - Pré-Requisitos]]
 
